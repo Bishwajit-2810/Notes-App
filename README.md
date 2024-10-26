@@ -24,7 +24,7 @@ A simple and intuitive note taking app built with Flutter to help you capture yo
 
 To get started, simply follow these steps:
 
-* Clone the repository using `git clone https://github.com/your-username/your-repo-name.git`
+* Clone the repository using `git clone https://github.com/Bishwajit-2810/Notes-App`
 * Open the project in your favorite IDE (e.g. Android Studio, Visual Studio Code)
 * Run `flutter pub get` to install dependencies
 * Run `flutter run` to launch the app
